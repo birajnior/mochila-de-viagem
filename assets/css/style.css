@@ -130,3 +130,6 @@ html {
     font-weight: 400;
 }
 
+.fa-regular {
+    cursor: pointer;
+}
